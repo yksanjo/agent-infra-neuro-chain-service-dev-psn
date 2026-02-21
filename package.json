@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-neuro-chain-service-dev-psn",
+  "version": "1.0.0",
+  "description": "Logging and observability platform",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "neuro-chain-service-dev-psn"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-neuro-chain-service-dev-psn.git"
+  }
+}
